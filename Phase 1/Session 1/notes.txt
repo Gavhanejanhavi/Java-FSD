@@ -1,0 +1,18 @@
+Step 1 : Create git-hub account
+Step 2 : Download git from google
+Step 3 : Run and install
+Step 4 : Check version by opening cmp promt (windows+R)
+         git --version
+
+    Initializing Repository
+    git init
+    
+    git remote add origin 
+ 
+    git branch add main
+
+    git commit -m "commit"
+
+    git push -u origin main
+
+
